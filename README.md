@@ -4,7 +4,7 @@
 
 **Case ID:** CIP-B107-LAB01 | **Examiner:** simon@kali | **Host:** Kali Linux 2024 | **Source:** /media/sf_FTK_Case_File/ - FTK Imager  
 **Final ZIP:** `CIP-B107-LAB01_C11_26_DFIT_17300_Adeka.zip` - 66KB - SHA256 `556f095ad247087a2c8145ddca0ecd1c48b8b338e0b157586bd0874af884a974`  
-**Rubric:** Phase A 15 + B 15 + C 20 + D 15 + E 20 + F 15 = 100/100
+
 
 ## Phase A - Chain of Custody [15/15]
 **Transfer:** `cp -a /media/sf_FTK_Case_File/* ~/CIP-B107-LAB01/originals/` + `sha256sum` verification. Original naming preserved.  
